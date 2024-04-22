@@ -110,3 +110,6 @@ Hence the 2 bit multiplier and 4 bit multiplier are simulated and synthesised us
 
 
 
+
+
+
